@@ -1,0 +1,7 @@
+- args:
+      tables:
+          - table:
+                name: ecom_user
+                schema: public
+      version: 2
+  type: replace_metadata
